@@ -1,0 +1,6 @@
+{
+  "name": "El Cerebro y el Músculo: Gestión de Alta Tensión (HV)",
+  "description": "Red de alta tensión de 400 V CC aislada del chasis y de la red de baja tensión",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
